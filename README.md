@@ -2,8 +2,6 @@
 
 ### A Web Developer
 
-![](https://api.moedog.org/count/@Ethanchen168.readme)
-
 - 🔭 I'm currently working on **Some Games**
 
 - 🌱 I'm currently learning **Win11 App Development**
