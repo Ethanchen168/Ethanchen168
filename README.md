@@ -1,25 +1,41 @@
+![Ethanchen168](https://svg-banners.vercel.app/api?type=luminance&text1=Ethanchen168&text2=&width=900&height=400)
 
+### 💪🏼 Working on 
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Ethanchen168&text2=&width=900&height=400)
+1. [Abyss Rift](https://scratch.mit.edu/projects/1317591124/)
 
+The next project will begin soon.
 
+### 📪 Connect with me:
 
+[![Github](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/Ethanchen168)
+[![Codepen](https://img.shields.io/badge/Codepen-black)](https://codepen.io/Ethanchen168)
+[![Dribbble](https://img.shields.io/badge/Dribbble-black?logo=dribbble)](https://dribbble.com/ethanchen168)
+[![Pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest)](https://pin.it/6IHdGSGOL)
+[![Scratch](https://img.shields.io/badge/Scratch-black?logo=scratch)](https://scratch.mit.edu/users/EChen105/)
 
+### 🧰 Languages and Tools:
 
-- 💪🏼 Working on [Abyss Rift](https://scratch.mit.edu/projects/1317591124/)
+#### Game Develop
 
-- 🌱 I’m currently learning **Git operations**
+![Scratch](https://go-skill-icons.vercel.app/api/icons?i=scratch)
 
-- 😂 Func Fact **I've never drunk Coke**
+#### Website Develop
 
-- 📫 How to reach me **Create an Issue in this repository**
+![HTML,CSS,Bootstrap](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap)
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/Ethanchen168" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://codepen.io/Ethanchen168" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://dribbble.com/ethanchen168" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+#### Note Tools
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://getbootstrap.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/css/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.figma.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/figma/figma-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://git-scm.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3.org/html/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.python.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt="android" width="40" height="40"/> </a> </p>
+![Notion,Obsidian](https://go-skill-icons.vercel.app/api/icons?i=notion,obsidian)
 
+#### Coding Tools
 
+![Codepen](https://go-skill-icons.vercel.app/api/icons?i=codepen)
 
+#### Design Tools
 
+![Figma,Canva](https://go-skill-icons.vercel.app/api/icons?i=figma,canva)
 
+### 🌱 I’m currently learning:
 
+![JavaScript,Git,Python,Github](https://go-skill-icons.vercel.app/api/icons?i=javascript,git,python,github)
