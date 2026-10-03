@@ -24,11 +24,7 @@ The next project will begin soon.
 
 ### 🧰 Languages and Tools:
 
-![Scratch](https://skills.syvixor.com/api/icons?i=scratch&perline=12&radius=40)
-![HTML,CSS,Bootstrap](https://skills.syvixor.com/api/icons?i=html,css3,bootstrap&perline=12&radius=40)
-![Notion,Obsidian,Trello](https://skills.syvixor.com/api/icons?i=notion,obsidian,trello&perline=12&radius=40)
-![Codepen](https://skills.syvixor.com/api/icons?i=codepen&perline=12&radius=40)
-![Canva,Figma,Pinterest](https://skills.syvixor.com/api/icons?i=canva,figma,pinterest&perline=12&radius=40)
+![Scratch,HTML,CSS,BootStarp,Notion,Obsidian,Trello,codepen,canva,figma,pinterest](https://skills.syvixor.com/api/icons?i=scratch,html,css3,bootstrap,notion,obsidian,trello,codepen,canva,figma,pinterest&perline=12&radius=40)
 
 ### 🌱 I’m currently learning:
 
